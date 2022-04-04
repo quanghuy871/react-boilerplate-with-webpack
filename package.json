@@ -1,5 +1,5 @@
 {
-  "name": "news-app",
+  "name": "react-boilerplate-with-webpack",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
