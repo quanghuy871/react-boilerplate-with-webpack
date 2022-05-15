@@ -1,8 +1,15 @@
-# Getting Started with Create React App
+# React Theme - Boilerplate With Webpack
+
+**Contributors:** Huy Nguyen
+**Requires at least:** Node.js 14 or above
+**Requirements:** Node.js
+
+**License:** GPLv2 or later
+**License URI:** http://www.gnu.org/licenses/gpl-2.0.html
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Instruction
 
 In the project directory, you can run:
 
@@ -68,3 +75,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Changelog
+
+### 1.0
+* Released: February 25, 2022
+Initial release
