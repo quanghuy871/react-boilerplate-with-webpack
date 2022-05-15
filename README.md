@@ -79,5 +79,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Changelog
 
 ### 1.0
-* Released: February 25, 2022
+* Released: February 25, 2022  
 Initial release
