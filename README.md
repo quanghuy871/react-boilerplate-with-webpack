@@ -1,11 +1,11 @@
 # React Theme - Boilerplate With Webpack
 
-**Contributors:** Huy Nguyen
-**Requires at least:** Node.js 14 or above
-**Requirements:** Node.js
+**Contributors:** Huy Nguyen 
+**Requires at least:** Node.js 14 or above 
+**Requirements:** Node.js 
 
-**License:** GPLv2 or later
-**License URI:** http://www.gnu.org/licenses/gpl-2.0.html
+**License:** GPLv2 or later 
+**License URI:** http://www.gnu.org/licenses/gpl-2.0.html 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
